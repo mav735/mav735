@@ -22,4 +22,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 📚 Currently Learning
 
 - **Backend:** CUDA lang, win kernel`s
-- 
+
+
+![Snake animation](https://github.com/mav735/mav735/blob/output/github-contribution-grid-snake.svg)
