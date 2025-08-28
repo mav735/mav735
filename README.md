@@ -2,6 +2,25 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and contribute to open-source projects.
 
+<details>
+<summary>Joke 🤓</summary>
+
+<details>
+<summary>Try this</summary>
+
+ <details>
+ <summary>The other one</summary>
+
+   <details>
+   <summary>Ok, here it is</summary>
+   <p align="center" width="100%">
+    <img src="https://readme-jokes.vercel.app/api?bgColor=%2300ff0000&borderColor=%2336362f" alt="Jokes Card" />
+   </p>
+   </details>
+ </details>
+</details>
+</details>
+
 ## 🔧 Technologies & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -25,3 +44,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 
 ![Snake animation](https://github.com/mav735/mav735/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+
